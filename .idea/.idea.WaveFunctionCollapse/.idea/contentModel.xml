@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\admin\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\admin\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_WaveFunctionCollapse.-259168387.00" t="ExcludeRecursive" />
+    <e p="D:\github\wavefunctioncollapse" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Code" t="Include">
+          <e p="AreaSelector.cs" t="Include" />
+          <e p="CameraControl" t="Include">
+            <e p="ControlModeSwitcher.cs" t="Include" />
+            <e p="FirstPersonController.cs" t="Include" />
+            <e p="FlightController.cs" t="Include" />
+            <e p="FreeCameraController.cs" t="Include" />
+          </e>
+          <e p="Culling" t="Include">
+            <e p="Chunk.cs" t="Include" />
+            <e p="CullingData.cs" t="Include" />
+            <e p="DistanceCulling.cs" t="Include" />
+            <e p="OcclusionCulling.cs" t="Include" />
+            <e p="Portal.cs" t="Include" />
+            <e p="Room.cs" t="Include" />
+          </e>
+          <e p="GenerateMapNearPlayer.cs" t="Include" />
+          <e p="IMapGenerationCallbackReceiver.cs" t="Include" />
+          <e p="Language" t="Include">
+            <e p="Extensions.cs" t="Include" />
+            <e p="QueueDictionary.cs" t="Include" />
+            <e p="RingBuffer.cs" t="Include" />
+          </e>
+          <e p="MapBehaviour.cs" t="Include" />
+          <e p="SlotInspector.cs" t="Include" />
+          <e p="TakeScreenshot.cs" t="Include" />
+          <e p="Trees" t="Include">
+            <e p="ColorGenerator.cs" t="Include" />
+            <e p="Node.cs" t="Include" />
+            <e p="TreeGenerator.cs" t="Include" />
+            <e p="TreeGrowingPrototype.cs" t="Include" />
+            <e p="TreePlacer.cs" t="Include" />
+          </e>
+          <e p="wavefunctioncollapse" t="Include">
+            <e p="AbstractMap.cs" t="Include" />
+            <e p="BoundaryConstraint.cs" t="Include" />
+            <e p="CollapseFailedException.cs" t="Include" />
+            <e p="HistoryItem.cs" t="Include" />
+            <e p="InfiniteMap.cs" t="Include" />
+            <e p="Module.cs" t="Include" />
+            <e p="ModuleData.cs" t="Include" />
+            <e p="ModulePrototype.cs" t="Include" />
+            <e p="ModulePrototypeEditorData.cs" t="Include" />
+            <e p="ModuleSet.cs" t="Include" />
+            <e p="Orientations.cs" t="Include" />
+            <e p="Slot.cs" t="Include" />
+            <e p="TilingMap.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Editor" t="Include">
+          <e p="AreaSelectorEditor.cs" t="Include" />
+          <e p="MapBehaviourEditor.cs" t="Include" />
+          <e p="ModuleDataEditor.cs" t="Include" />
+          <e p="ModulePrototypeEditor.cs" t="Include" />
+          <e p="SlotInspectorEditor.cs" t="Include" />
+          <e p="TreeEditor.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="WaveFunctionCollapse.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
